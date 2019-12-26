@@ -4,7 +4,7 @@ import java.io.*;
 
 class Solution{
 
-    public static double serie (int a, int b, int n){
+    public static  double serie (int a, int b, int n){
     	double result =0;
         if (n == 1){
             result = (a + (1*b));
