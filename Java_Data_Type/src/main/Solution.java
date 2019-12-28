@@ -3,7 +3,7 @@ package main;
 import java.util.*;
 
 class Solution{
-    public static void main(String []argh)
+    public static  void main(String []argh)
     {
 
 
