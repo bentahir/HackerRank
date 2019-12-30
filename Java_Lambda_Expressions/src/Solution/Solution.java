@@ -2,7 +2,7 @@ package Solution;
 
 import java.io.*;
 import java.util.*;
-interface PerformOperation {
+interface PerformOperation   {
 	boolean check(int a);
 }
 class MyMath  {
