@@ -1,7 +1,7 @@
 package Solution;
 
 import java.io.*; 
-import java.util.*;
+import java.util.*; 
 interface PerformOperation   {
 	boolean check(int a);
 }
